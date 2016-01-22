@@ -1,0 +1,71 @@
+{
+  "name": "chromatom",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./dist/browser/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efuquen/chromatom.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/efuquen/chromatom/issues"
+  },
+  "homepage": "https://github.com/efuquen/chromatom#readme",
+  "dependencies": {
+    "async": "0.2.6",
+    "atom-keymap": "^6.2.0",
+    "babel-core": "^5.8.21",
+    "bootstrap": "^3.3.4",
+    "cached-run-in-this-context": "0.4.1",
+    "clear-cut": "^2.0.1",
+    "coffee-script": "1.8.0",
+    "color": "^0.7.3",
+    "event-kit": "^1.5.0",
+    "find-parent-dir": "^0.3.0",
+    "first-mate": "^5.1.1",
+    "fs-plus": "^2.8.0",
+    "fstream": "0.1.24",
+    "fuzzaldrin": "^2.1",
+    "git-utils": "^4.1.0",
+    "grim": "1.5.0",
+    "jasmine-json": "~0.0",
+    "jasmine-tagged": "^1.1.4",
+    "jquery": "2.1.4",
+    "key-path-helpers": "^0.4.0",
+    "less-cache": "0.22",
+    "line-top-index": "0.2.0",
+    "marked": "^0.3.4",
+    "nodegit": "0.8.0",
+    "normalize-package-data": "^2.0.0",
+    "nslog": "^3",
+    "oniguruma": "^5",
+    "pathwatcher": "~6.2",
+    "property-accessors": "^1.1.3",
+    "random-words": "0.0.1",
+    "resolve": "^1.1.6",
+    "runas": "^3.1",
+    "scandal": "^2.2",
+    "scoped-property-store": "^0.17.0",
+    "scrollbar-style": "^3.2",
+    "season": "^5.3",
+    "semver": "^4.3.3",
+    "service-hub": "^0.7.0",
+    "source-map-support": "^0.3.2",
+    "temp": "0.8.1",
+    "text-buffer": "8.1.4",
+    "typescript-simple": "1.0.0",
+    "underscore-plus": "^1.6.6",
+    "yargs": "^3.23.0"
+  },
+  "devDependencies": {
+    "event-stream": "^3.3.2",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-concat": "^2.6.0"
+  }
+}
