@@ -1,2 +1,4 @@
+.atom
 dist
 node_modules
+package/background.js
